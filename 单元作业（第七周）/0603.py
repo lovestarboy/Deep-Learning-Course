@@ -50,7 +50,7 @@ B = tf.Variable(tf.zeros(1), dtype=tf.float32)
 # 设置超参数
 training_epochs = 50
 learning_rate = 0.01
-batch_size = 10
+batch_size = 60
 
 # 定义均方差损失函数
 
